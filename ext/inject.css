@@ -1,0 +1,12 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+* {
+  color: transparent;
+  text-shadow: 0 0 7px rgba(0, 0, 0, 0.5);
+}
+
+img {
+  filter: blur(8px);
+}
